@@ -1,0 +1,6 @@
+"Create Permanent Redirect for old URL","Creați redirecționare permanentă pentru vechiul URL","module","Magento_CatalogUrlRewrite"
+"Category URL Suffix","Sufix URL categorie","module","Magento_CatalogUrlRewrite"
+"You need to refresh the cache.","Trebuie să reîmprospătați cache-ul.","module","Magento_CatalogUrlRewrite"
+"Product URL Suffix","Sufix URL produs","module","Magento_CatalogUrlRewrite"
+"Use Categories Path for Product URLs","Utilizați Cale Categorii pentru URL-uri Produs","module","Magento_CatalogUrlRewrite"
+"Create Permanent Redirect for URLs if URL Key Changed","Creați redirecționare permanentă pentru URL-uri dacă cheia URL s-a modificat","module","Magento_CatalogUrlRewrite"

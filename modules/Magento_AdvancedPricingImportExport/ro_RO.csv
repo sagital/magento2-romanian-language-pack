@@ -1,0 +1,4 @@
+"Please correct the data sent.","Corectați informația trimisă.","module","Magento_AdvancedPricingImportExport"
+"Entity type model '%1' is not found","Modelul de tip entitate '%1' nu este găsit.","module","Magento_AdvancedPricingImportExport"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Modelul de tip entitate trebuie să fie o versiune a \Magento\CatalogImportExport\Model\Export\Produs\Tip\TipAbstract","module","Magento_AdvancedPricingImportExport"
+"There are no product types available for export","Nu există tipuri de produs disponibile pentru export.","module","Magento_AdvancedPricingImportExport"
