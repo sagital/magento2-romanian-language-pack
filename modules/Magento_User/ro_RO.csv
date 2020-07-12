@@ -109,7 +109,7 @@
 "Thank you,","Vă mulțumim,","module","Magento_User"
 "There was recently a request to change the password for your account.","A existat recent o solicitare de schimbare a parolei pentru contul dumneavoastră.","module","Magento_User"
 "If you requested this change, reset your password here:","Dacă dumneavoastră ați solicitat această schimbare, setați parola nouă aici:","module","Magento_User"
-"If you did not make this request, you can ignore this email and your password will remain the same.","Dacă nu dumneavoastră ați făcut această solicitare, ignorați acest email și parola dumneavosată va rămâne aceeași.","module","Magento_User"
+"If you did not make this request, you can ignore this email and your password will remain the same.","Dacă nu dumneavoastră ați făcut această solicitare, ignorați acest email și parola dumneavoastră va rămâne aceeași.","module","Magento_User"
 "Reset Password Template","Resetare șablon parolă","module","Magento_User"
 "Email template chosen based on theme fallback when ""Default"" option is selected.","șablon email ales pe baza temei fallback atunci când opțiunea ""Implicit"" este selectată.","module","Magento_User"
 "Maximum Login Failures to Lockout Account","Numărul maxim de eșuări la conectare penrtu blocarea contului","module","Magento_User"

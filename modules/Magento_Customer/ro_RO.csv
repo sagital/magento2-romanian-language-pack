@@ -369,7 +369,7 @@
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Pentru conectarea pe site-ul nostru și setarea unei parole, faceși click pe <a href=""%create_password_url"">link</a>:","module","Magento_Customer"
 "There was recently a request to change the password for your account.","A existat recent o solicitare de schimbare a parolei pentru contul dumneavoastră.","module","Magento_Customer"
 "If you requested this change, set a new password here:","Dacă dumneavoastră ați solicitat această schimbare, setați parola nouă aici:","module","Magento_Customer"
-"If you did not make this request, you can ignore this email and your password will remain the same.","Dacă nu dumneavoastră ați făcut această solicitare, ignorați acest email și parola dumneavosată va rămâne aceeași.","module","Magento_Customer"
+"If you did not make this request, you can ignore this email and your password will remain the same.","Dacă nu dumneavoastră ați făcut această solicitare, ignorați acest email și parola dumneavoastră va rămâne aceeași.","module","Magento_Customer"
 "The password for your account has been successfully changed.","Parola pentru contul dumneavoastră a fost schimbată cu succes.","module","Magento_Customer"
 "If you did not request this change, please contact us.","Daca nu ați solicitat această schimbare, contactați-ne.","module","Magento_Customer"
 "Are you sure you want to do this?","Sunteți sigur că doriți să efectuați această operațiune?","module","Magento_Customer"
