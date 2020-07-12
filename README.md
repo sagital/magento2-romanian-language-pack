@@ -13,6 +13,10 @@ The Romanian language pack maintained and supported by EaDesign
 * Clear cache using $ php bin/magento cache:clean
 * Deploy static content $ php bin/magento setup:static-content:deploy ro_RO
 
+# concatenate the files into destination
+
+  cat modules/*/ro_RO.csv > ro_RO.csv
+
 # Installation using Composer
 
 * Require via Composer CLI $ composer require eadesignro/ro_ro
