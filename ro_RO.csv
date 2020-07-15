@@ -7781,3 +7781,303 @@
 "Configure","Configurați","module","Magento_Wishlist"
 "Delete","ștergeți","module","Magento_Wishlist"
 "Product Details and Comment","Comentariu și detalii produs","module","Magento_Wishlist"
+Gestionați traducerile titlurilor,Manage Title Translations,module,Plumrocket_RMA
+Condițiile articolului,Item Conditions,module,Plumrocket_RMA
+Adãugați condiție nouã,Add New Condition,module,Plumrocket_RMA
+Salvați și continuați editarea,Save and Continue Edit,module,Plumrocket_RMA
+Editeazã starea,Edit Condition,module,Plumrocket_RMA
+Stare Nouã,New Condition,module,Plumrocket_RMA
+Starea articolului,Item Condition,module,Plumrocket_RMA
+Adaugã starea articolului nou,Add New Item Condition,module,Plumrocket_RMA
+Titlu,Title,module,Plumrocket_RMA
+Stare,Status,module,Plumrocket_RMA
+Vizualizare magazin,Store View,module,Plumrocket_RMA
+Poziție,Position,module,Plumrocket_RMA
+Sorteazã ordinea în lista de condiții ale articolului.,Sort order in item condition list.,module,Plumrocket_RMA
+Editați,Edit,module,Plumrocket_RMA
+Motive de întoarcere,Return Reasons,module,Plumrocket_RMA
+Adãugați un nou motiv,Add New Reason,module,Plumrocket_RMA
+Modificați motivul,Edit Reason,module,Plumrocket_RMA
+Motiv Nou,New Reason,module,Plumrocket_RMA
+Motivul de întoarcere,Return Reason,module,Plumrocket_RMA
+Adãugați un nou motiv de returnare,Add New Return Reason,module,Plumrocket_RMA
+Cine plãtește pentru transport,Who Pays For Shipping,module,Plumrocket_RMA
+Aceste informații vor fi afișate clientului sau administratorului în timpul creãrii sau vizualizãrii RMA.,This information will be displayed to the customer or admin while creating or viewing RMA.,module,Plumrocket_RMA
+Sorteazã ordinea în lista de rezolvare.,Sort order in resolution list.,module,Plumrocket_RMA
+Rezoluție,Resolution,module,Plumrocket_RMA
+Adãugați o nouã rezoluție,Add New Resolution,module,Plumrocket_RMA
+Editeazã rezoluția,Edit Resolution,module,Plumrocket_RMA
+Rezoluție nouă,New Resolution,module,Plumrocket_RMA
+Șabloane de rãspuns rapid,Quick Response Templates,module,Plumrocket_RMA
+Adãugați un nou model de rãspuns rapid,Add New Quick Response Template,module,Plumrocket_RMA
+Editați șablonul de rãspuns rapid,Edit Quick Response Template,module,Plumrocket_RMA
+Noul șablon de rãspuns rapid,New Quick Response Template,module,Plumrocket_RMA
+Șablon de rãspuns rapid,Quick Response Template,module,Plumrocket_RMA
+Mesaj,Message,module,Plumrocket_RMA
+Regula de retur,Return Rule,module,Plumrocket_RMA
+Adãugați o nouã regulã de retur,Add New Return Rule,module,Plumrocket_RMA
+Editeazã regula de retur,Edit Return Rule,module,Plumrocket_RMA
+Nouã regulã de retur,New Return Rule,module,Plumrocket_RMA
+Numele regulii,Rule Name,module,Plumrocket_RMA
+Site-uri,Websites,module,Plumrocket_RMA
+Grupuri de clienyi,Customer Groups,module,Plumrocket_RMA
+Prioritate,Priority,module,Plumrocket_RMA
+Perioadã,Period,module,Plumrocket_RMA
+(zile),(days),module,Plumrocket_RMA
+"Introduceți ""0"" pentru a dezactiva acest tip de rezoluyie.","Enter ""0"" to disable this type of resolution.",module,Plumrocket_RMA
+"Condiții (nu adãugați condiții, dacã regula se aplicã tuturor produselor)","Conditions (do not add conditions, if the rule is applied to all products)",module,Plumrocket_RMA
+Condiții,Conditions,module,Plumrocket_RMA
+Id,Id,module,Plumrocket_RMA
+Acțiune,Action,module,Plumrocket_RMA
+Activat,Enabled,module,Plumrocket_RMA
+Dezactivat,Disabled,module,Plumrocket_RMA
+Permite,Enable,module,Plumrocket_RMA
+Dezactivați,Disable,module,Plumrocket_RMA
+Șterge,Delete,module,Plumrocket_RMA
+Retururi,Returns,module,Plumrocket_RMA
+Salvați adresa de retur,Save Return Address,module,Plumrocket_RMA
+Editeazã adresa de retur,Edit Return Address,module,Plumrocket_RMA
+Informații despre adresa de retur,Return Address Information,module,Plumrocket_RMA
+Trimite retur,Submit Return,module,Plumrocket_RMA
+Imprimare,Print,module,Plumrocket_RMA
+Deschideți RMA,Open RMA,module,Plumrocket_RMA
+Ești sigur cã vrei sã faci asta?,Are you sure you want to do this?,module,Plumrocket_RMA
+Anulați RMA,Cancel RMA,module,Plumrocket_RMA
+"Aceasta va crea o rambursare offline. Pentru a crea o rambursare online, deschideți o facturã și creați o notã de credit pentru ea. Doriți sã continuați?","This will create an offline refund. To create an online refund, open an invoiceand create credit memo for it.Do you want to continue?",module,Plumrocket_RMA
+Credit Memo,Credit Memo,module,Plumrocket_RMA
+Retur Nou,New Return,module,Plumrocket_RMA
+Editeazã Retur,Edit Return,module,Plumrocket_RMA
+Manager RMA,RMA Manager,module,Plumrocket_RMA
+Vã rugãm sã alegeți,Please choose,module,Plumrocket_RMA
+Comentariu (opțional),Comment (optional),module,Plumrocket_RMA
+Post intern,Internal Post,module,Plumrocket_RMA
+Notificați clientul prin e-mail,Notify Customer by Email,module,Plumrocket_RMA
+Retururi ale comenzii,Order Returns,module,Plumrocket_RMA
+Editeazã adresa,Edit Address,module,Plumrocket_RMA
+Retururile mele,My Returns,module,Plumrocket_RMA
+Acasã,Home,module,Plumrocket_RMA
+Mergi la pagina principalã,Go to Home Page,module,Plumrocket_RMA
+RMA,RMA,module,Plumrocket_RMA
+Ați actualizat adresa de retur.,You updated the return address.,module,Plumrocket_RMA
+Nu putem actualiza adresa de retur acum.,We can't update the return address right now.,module,Plumrocket_RMA
+Cererea de retur a fost anulatã de cãtre administratorul magazinului,Return request has been canceled by store manager,module,Plumrocket_RMA
+"Managerul RMA implicit a fost eliminat din magazinul Magento. Faceți clic pe <a href=""%1""> aici </a> pentru a seta un nou manager pentru extensia RMA.","Default RMA Manager was removed from Magento store. Click <a href=""%1"">here</a> to set new manager for RMA extension.",module,Plumrocket_RMA
+Administrare ' .,Manage ' .,module,Plumrocket_RMA
+Starea cererii de retur a fost actualizatã la: %1,Status of return request has been updated to: %1,module,Plumrocket_RMA
+. 'a fost salvat.',. ' has been saved.',module,Plumrocket_RMA
+Cererea de retur a fost deschisã de cãtre administratorul magazinului,Return request has been opened by store manager,module,Plumrocket_RMA
+Solicitarea de retur a fost anulatã de cãtre client,Return request has been canceled by customer,module,Plumrocket_RMA
+Returul a fost anulat,Return has been canceled,module,Plumrocket_RMA
+Eroare necunoscutã,Unknown Error,module,Plumrocket_RMA
+Retur nou pentru comanda nr.% 1,New Return for Order #%1,module,Plumrocket_RMA
+Codul comenzii lipsește,Order id is missing,module,Plumrocket_RMA
+"Pentru a crea o nouã returnare, faceți clic pe linkul ""returnare"" de lângã comanda dvs. de mai jos","To create a new return, please click on ""return"" link next to your order below",module,Plumrocket_RMA
+Retur #% 1,Return #%1,module,Plumrocket_RMA
+Mesajul a fost trimis,Message has been sent,module,Plumrocket_RMA
+Returul a fost creat cu succes,Return Has Been Created Successfully,module,Plumrocket_RMA
+Urmãrirea este dezactivatã pentru clienți,Tracking is disabled for the customers,module,Plumrocket_RMA
+Returul este închis,Return is closed,module,Plumrocket_RMA
+Returul este virtual,Return is virtual,module,Plumrocket_RMA
+A fost adãugat numãrul de urmãrire,Tracking number has been added,module,Plumrocket_RMA
+Numãrul de urmãrire a fost eliminat,Tracking number has been removed,module,Plumrocket_RMA
+Acest numãr de urmãrire nu poate fi eliminat,This tracking number cannot be removed,module,Plumrocket_RMA
+Cererea de retur a fost închisã automat,Return request has been automatically closed,module,Plumrocket_RMA
+Proprietar de magazin,Store Owner,module,Plumrocket_RMA
+"Ne pare rãu, fișierul dvs. este prea mare. Vã rugãm sã încãrcați fișierul numai pânã la% 1 MB.","Sorry, your file is too large. Please, upload file up to %1 MB only.",module,Plumrocket_RMA
+%1 expirat,Expired %1,module,Plumrocket_RMA
+%1 perioadã,%1 period,module,Plumrocket_RMA
+%1 zile,%1 days,module,Plumrocket_RMA
+Articolul nu a fost primit,Item was not received,module,Plumrocket_RMA
+Articolul nu a fost aprobat,Item was not approved,module,Plumrocket_RMA
+%1 procesat,%1 processed,module,Plumrocket_RMA
+Nici unul,None,module,Plumrocket_RMA
+Pagini Frontend,Frontend Pages,module,Plumrocket_RMA
+Pagina produsului,Product Page,module,Plumrocket_RMA
+Pagina coșului de cumpãrãturi,Shopping Cart Page,module,Plumrocket_RMA
+Paginã de finalizare,Checkout Page,module,Plumrocket_RMA
+„Pagina de succes a plãții”,'Plumrocket Checkout Success Page' .,module,Plumrocket_RMA
+Cont clienți > Pagina comenzii,Customer Account > Order Page,module,Plumrocket_RMA
+E-mailuri,Emails,module,Plumrocket_RMA
+Confirmarea comenzii,Order Confirmation,module,Plumrocket_RMA
+Factura fiscala,Invoice,module,Plumrocket_RMA
+Expediere,Shipment,module,Plumrocket_RMA
+Panoul Administratorului,Admin Panel,module,Plumrocket_RMA
+Pagina de comandã,Order Page,module,Plumrocket_RMA
+In așteptare,Pending,module,Plumrocket_RMA
+Parțial respins,Partially Rejected,module,Plumrocket_RMA
+Autorizat parțial,Partially Authorized,module,Plumrocket_RMA
+Autorizat,Authorized,module,Plumrocket_RMA
+Parțial primite,Partially Received,module,Plumrocket_RMA
+Primit,Received,module,Plumrocket_RMA
+Soluționat parțial,Partially Resolved,module,Plumrocket_RMA
+Rezolvat,Resolved,module,Plumrocket_RMA
+Anulat,Cancelled,module,Plumrocket_RMA
+Respins,Rejected,module,Plumrocket_RMA
+Client,Customer,module,Plumrocket_RMA
+Pagina produsului curent,Current Product Page,module,Plumrocket_RMA
+Produs,Product,module,Plumrocket_RMA
+RMA #%1 (%2),RMA #%1 (%2),module,Plumrocket_RMA
+Câmpul de comentarii nu poate fi gol,Comment field cannot be empty,module,Plumrocket_RMA
+Comentariul este prea lung,Comment is too long,module,Plumrocket_RMA
+"""%1”" nu poate fi returnat,"""%1"" cannot be returned",module,Plumrocket_RMA
+Trebuie sã alegeți cel puțin un articol din comandã,You need to choose at least one item from order,module,Plumrocket_RMA
+"""%1”" are o cantitate de retur incorectã,"""%1"" has incorrect return qty",module,Plumrocket_RMA
+"""%1”" are valori numerice incorecte,"""%1"" has incorrect numeric values",module,Plumrocket_RMA
+"""%1"” are %2 incorecte.,"""%1"" has incorrect %2.",module,Plumrocket_RMA
+Trebuie sã fiți de acord cu politica de returnare,You need to agree to return policy,module,Plumrocket_RMA
+Urmãrirea transportatorului este incorectã,Tracking carrier is incorrect,module,Plumrocket_RMA
+Câmpul cu numãrul de urmãrire nu poate fi gol,Tracking number field cannot be empty,module,Plumrocket_RMA
+Returnare,Return,module,Plumrocket_RMA
+cu %1, by %1,module,Plumrocket_RMA
+Adresa clientului,Customer Address,module,Plumrocket_RMA
+Articole de returnat,Items To Return,module,Plumrocket_RMA
+Informație,Information,module,Plumrocket_RMA
+Stare RMA,RMA Status,module,Plumrocket_RMA
+Comanda,Order,module,Plumrocket_RMA
+Starea comenzii,Order Status,module,Plumrocket_RMA
+Cumpãrat de la,Purchased From,module,Plumrocket_RMA
+Numele clientului,Customer Name,module,Plumrocket_RMA
+Grupul de clien?i,Customer Group,module,Plumrocket_RMA
+E-mail,Email,module,Plumrocket_RMA
+Link direct pentru client,Direct Link for Customer,module,Plumrocket_RMA
+Imagine,Image,module,Plumrocket_RMA
+SKU,SKU,module,Plumrocket_RMA
+Disponibilitate,Availability,module,Plumrocket_RMA
+In stoc,In Stock,module,Plumrocket_RMA
+Stoc epuizat,Out of Stock,module,Plumrocket_RMA
+Cantitate de inventar,Inventory Qty,module,Plumrocket_RMA
+%1 va acoperi costurile de transport,%1 will cover shipping costs,module,Plumrocket_RMA
+Clientul va acoperi costurile de transport,Customer will cover shipping costs,module,Plumrocket_RMA
+Desparte,Split,module,Plumrocket_RMA
+Ștergeți rândul,Delete Row,module,Plumrocket_RMA
+Mesaje,Messages,module,Plumrocket_RMA
+Marcheazã totul ca fiind citit,Mark all as read,module,Plumrocket_RMA
+Utilizați șablonul de rãspuns,Use Response Template,module,Plumrocket_RMA
+Alegeți Șablonul,Choose Template,module,Plumrocket_RMA
+Notã RMA,RMA Note,module,Plumrocket_RMA
+Încãrcați eticheta de expediere,Upload Shipping Label,module,Plumrocket_RMA
+Eticheta de expediere atașatã,Shipping label attached,module,Plumrocket_RMA
+Tiparește eticheta de transport,Print Shipping Label,module,Plumrocket_RMA
+Informații de urmãrire,Tracking Information,module,Plumrocket_RMA
+Transportator,Carrier,module,Plumrocket_RMA
+Numãr de urmãrire,Tracking Number,module,Plumrocket_RMA
+Atașeaza fișier:,Attach file:,module,Plumrocket_RMA
+* Câmpuri obligatorii,* Required Fields,module,Plumrocket_RMA
+Informații de contact,Contact Information,module,Plumrocket_RMA
+Companie,Company,module,Plumrocket_RMA
+Numar de telefon,Phone Number,module,Plumrocket_RMA
+Fax,Fax,module,Plumrocket_RMA
+Adresa,Address,module,Plumrocket_RMA
+Adresa strãzii,Street Address,module,Plumrocket_RMA
+Strada Adresa %1,Street Address %1,module,Plumrocket_RMA
+COD TVA,VAT Number,module,Plumrocket_RMA
+Oraș,City,module,Plumrocket_RMA
+Județ / Provincie,State/Province,module,Plumrocket_RMA
+"Vã rugãm sã selectați o regiune, un județ sau o provincie.","Please select a region, state, or province.",module,Plumrocket_RMA
+Zip / Cod Po?tal,Zip/Postal Code,module,Plumrocket_RMA
+Țarã,Country,module,Plumrocket_RMA
+Întoarce-te,Go back,module,Plumrocket_RMA
+Alegeți Articole de returnat,Choose Items To Return,module,Plumrocket_RMA
+Detalii,Details,module,Plumrocket_RMA
+%1 va acoperi costurile de transport,%1 will cover your shipping costs,module,Plumrocket_RMA
+Acest produs nu poate fi returnat.,This product cannot be returned.,module,Plumrocket_RMA
+"Ne pare rãu, dar perioada de retur a expirat.","We are sorry, but the return period has been expired.",module,Plumrocket_RMA
+Acest produs este deja returnat.,This product is already returned.,module,Plumrocket_RMA
+Retur(uri) Existent(e),Existing Return(s),module,Plumrocket_RMA
+"Sunt de acord cu <a href=""#""> politica de returnare </a>","I agree to <a href=""#"">return policy</a>",module,Plumrocket_RMA
+Trimite cererea,Submit Request,module,Plumrocket_RMA
+Anulare,Cancel,module,Plumrocket_RMA
+Numãrul dvs. RMA este:% 1,Your RMA # is: %1,module,Plumrocket_RMA
+Articole,Items,module,Plumrocket_RMA
+ID RMA,RMA ID,module,Plumrocket_RMA
+Comanda ID,Order ID,module,Plumrocket_RMA
+Actualizat,Updated,module,Plumrocket_RMA
+1%,1%,module,Plumrocket_RMA
+Vedere,View,module,Plumrocket_RMA
+Nu aveți nici un retur,You have no returns.,module,Plumrocket_RMA
+Creat la,Created At,module,Plumrocket_RMA
+Instrucțiuni de returnare,Return Instructions,module,Plumrocket_RMA
+Printeazã pachet de ambalare,Print Packing Slip,module,Plumrocket_RMA
+Detalii produs,Product Details,module,Plumrocket_RMA
+Detalii RMA,RMA Details,module,Plumrocket_RMA
+Comentarii,Comments,module,Plumrocket_RMA
+Trimite comentariu,Submit Comment,module,Plumrocket_RMA
+ID,ID,module,Plumrocket_RMA
+Adresa expeditorului,Return Address,module,Plumrocket_RMA
+Comenzi,Orders,module,Plumrocket_RMA
+Ordin #,Order #,module,Plumrocket_RMA
+Data,Date,module,Plumrocket_RMA
+Expediați la,Ship To,module,Plumrocket_RMA
+Total de comenzi,Order Total,module,Plumrocket_RMA
+Acþiuni,Actions,module,Plumrocket_RMA
+Vezi comanda,View Order,module,Plumrocket_RMA
+Comandã din nou,Reorder,module,Plumrocket_RMA
+Nu ați fãcut comenzi.,You have placed no orders.,module,Plumrocket_RMA
+Comenzi recente,Recent Orders,module,Plumrocket_RMA
+Vezi tot,View All,module,Plumrocket_RMA
+%store_name: Solicitare de retur nouã # %returns_id,%store_name: New Return Request # %returns_id,module,Plumrocket_RMA
+"%name,","%name,",module,Plumrocket_RMA
+A fost creatã cererea dvs. de retur #%increment_id.,Your return request #%increment_id has been created.,module,Plumrocket_RMA
+"Solicitarea dvs. de retur va fi revizuitã de personalul nostru în termen de 24 de ore, de luni pânã vineri, pentru a vã confirma cã sunteți eligibil pentru retur. Dupã aceea, un e-mail cu instrucțiuni de returnare vã va fi trimis în termen de 24 de ore, de luni pânã vineri.","Your return request will be reviewed by our staff within 24 hours, Monday through Friday, to confirm you are eligible for a return. After that, an email with return instructions will be sent to you within 24 hours, Monday through Friday.",module,Plumrocket_RMA
+"Puteți verifica starea sau puteți vedea mai multe detalii despre returul dvs. fãcând clic pe acest <a href=""%view_url""> link </a>.","You can check the status or view more details about your return by clicking on this <a href=""%view_url"">link</a>.",module,Plumrocket_RMA
+"Dacã aveți întrebãri, nu ezitați sã ne contactați la <a href=""mailto:%store_email"">% store_email </a>","If you have any questions, please feel free to contact us at <a href=""mailto:%store_email"">%store_email</a>",module,Plumrocket_RMA
+"sau telefonic la <a href=""tel:%store_phone"">%store_phone</a>","or by phone at <a href=""tel:%store_phone"">%store_phone</a>",module,Plumrocket_RMA
+"Orele noastre sunt <span class = ""no-link"">%store_hours</span>.","Our hours are <span class=""no-link"">%store_hours</span>.",module,Plumrocket_RMA
+%store_name: Cerere de retur # %returns_id actualizare,%store_name: Return Request # %returns_id update,module,Plumrocket_RMA
+Cererea dvs. de retur #%increment_id status a fost actualizatã la: <strong>%returns_status </strong>,Your return request #%increment_id status has been updated to: <strong>%returns_status</strong>,module,Plumrocket_RMA
+Noua cerere de returnare a fost creatã. Numãr de retur: #%increment_id,New return request has been creaded. Return number: #%increment_id,module,Plumrocket_RMA
+"Vã rugãm sã consultați aceastã solicitare de retur în termen de 24 de ore, de luni pânã vineri, pentru a confirma cã clientul este eligibil pentru retur. Dupã aceea, vã rugãm sã trimiteți instrucțiuni de retur cãtre client.","Please review this return request within 24 hours, Monday through Friday, to confirm that customer is eligible for a return. After that, please submit return instructions to the client.",module,Plumrocket_RMA
+Comentariu de administrator (%name),Admin Comment (%name),module,Plumrocket_RMA
+Comentariul clienților,Customer Comment,module,Plumrocket_RMA
+Vã rugãm sã navigați cãtre panoul de administrare a site-ului pentru a gestiona acest RMA.,Please navigate to store admin panel to manage this RMA.,module,Plumrocket_RMA
+Cererea de retur #%increment_id a fost actualizatã.,Return request #%increment_id has been updated.,module,Plumrocket_RMA
+"Vã rugãm sã consultați aceastã solicitare de retur în termen de 24 de ore, de luni pânã vineri.","Please review this return request within 24 hours, Monday through Friday.",module,Plumrocket_RMA
+Numãrul maxim de fișiere atașate este,Maximum count of attached files is,module,Plumrocket_RMA
+Nu am putut detecta o dimensiune.,We could not detect a size.,module,Plumrocket_RMA
+Nu recunoaștem sau nu acceptãm acest tip de extensie de fișier.,We don't recognize or support this file extension type.,module,Plumrocket_RMA
+Retururi în așteptare,Pending Returns,module,Plumrocket_RMA
+Arhiva,Archive,module,Plumrocket_RMA
+Reguli de returnare,Return Rules,module,Plumrocket_RMA
+Rezolvãri,Resolutions,module,Plumrocket_RMA
+Configurație,Configuration,module,Plumrocket_RMA
+General,General,module,Plumrocket_RMA
+Activeazã extensia,Enable Extension,module,Plumrocket_RMA
+Serial Key,Serial Key,module,Plumrocket_RMA
+Afișați informațiile de retur în,Display Return Information On,module,Plumrocket_RMA
+Adresa magazinului pentru returnãri,Store Address For Returns,module,Plumrocket_RMA
+RMA se închide automat în (zile),RMA Auto-Closes In (days),module,Plumrocket_RMA
+Permiteți clienților sã furnizeze numere de urmãrire,Allow Customers to Provide Tracking Numbers,module,Plumrocket_RMA
+Transportatori pentru retururi,Shipping Carriers For Returns,module,Plumrocket_RMA
+Creați noi opțiuni RMA,Create New RMA Options,module,Plumrocket_RMA
+Permiteți clienților sã creeze RMA in contul lor,Allow Customers To Create RMA On Storefront,module,Plumrocket_RMA
+Managerul implicit pentru noul RMA,Default Manager For New RMA,module,Plumrocket_RMA
+Toate noile RMA trimise de clienți vor fi atribuite automat utilizatorului din administrarea Magento selectat.,All New RMA's submitted by customers will be automatically assigned to the selected Magento admin user.,module,Plumrocket_RMA
+Solicita?i acordul pentru politica de returnare,Require to Agree to Return Policy,module,Plumrocket_RMA
+"Dacã este activat, clienții vor trebui sã accepte ""Politica de returnare"" pentru a trimite RMA.","If enabled, customers will have to agree to ""Return Policy"" in order to submit RMA.",module,Plumrocket_RMA
+Text de politicã de returnare,Return Policy Text,module,Plumrocket_RMA
+Vã rugãm sã selectați blocul static cu text de politicã de returnare.,Please select static block with Return Policy Text.,module,Plumrocket_RMA
+Autorizați automat retururi,Automatically Authorize Returns,module,Plumrocket_RMA
+"Dacã este activat, toate RMA-urile create de clienți vor fi autorizate automat pentru retur, astfel economisind timp pentru administratori","If enabled, all RMA's created by customers will be automatically authorized for return, thus saving time for admins.",module,Plumrocket_RMA
+Mesaj nou de succes pentru retur,New Return Success Message,module,Plumrocket_RMA
+Vã rugãm sã selectați blocul static care ar trebui sã fie afișat clienților care au trimis cu succes noua solicitare de returnare.,Please select static block that should be displayed to customers who submitted new return request sucessfully.,module,Plumrocket_RMA
+Text instrucțiuni retur,Return Instructions Text,module,Plumrocket_RMA
+Vã rugãm sã selectați blocul static care ar trebui sã conținã instrucțiunile clienților despre returnarea produsului. Acest text este afișat clienților atunci când vizioneazã informații de retur pe site-ul web și e-mail.,Please select static block that should contain customer instructions how to return the product. This text is displayed to customers when they viewing return information on the website and email.,module,Plumrocket_RMA
+E-mailuri RMA,RMA Emails,module,Plumrocket_RMA
+Numele expeditorului,Sender Name,module,Plumrocket_RMA
+E-mail expeditor,Sender Email,module,Plumrocket_RMA
+E-mailuri trimise clienților,Emails Sent To Customers,module,Plumrocket_RMA
+Noul model de confirmare RMA,New RMA Confirmation Template,module,Plumrocket_RMA
+Trimiteți confirmarea RMA prin e-mail,Send RMA Confirmation Email Copy To,module,Plumrocket_RMA
+Șablon actualizãri RMA,RMA Updates Template,module,Plumrocket_RMA
+Trimiteți copie actualizãri RMA prin e-mail cãtre,Send RMA Updates Email Copy To,module,Plumrocket_RMA
+E-mailuri trimise managerilor,Emails Sent To Managers,module,Plumrocket_RMA
+Încãrcarea fișierelor RMA,RMA Files Upload,module,Plumrocket_RMA
+Tipuri de fișiere permise,Allowed File Types,module,Plumrocket_RMA
+Dimensiunea maximã a fișierului (Mb),Max. File Size (Mb),module,Plumrocket_RMA
+Numãrul maxim de fișiere atașate,Max. Number Of Attached Files,module,Plumrocket_RMA
+Punct de cumpãrare,Purchase Point,module,Plumrocket_RMA
+Data solicitata,Request Date,module,Plumrocket_RMA
+Data comandã,Order Date,module,Plumrocket_RMA
+Administrator,Manager,module,Plumrocket_RMA
+Ultimul rãspuns,Last Reply,module,Plumrocket_RMA
+Toate vizualizãrile magazinului,All Store Views,module,Plumrocket_RMA
