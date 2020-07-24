@@ -2,7 +2,7 @@
 "Delete Tax","ștergere taxe","module","Magento_Weee"
 "All Websites","Toate website-urile","module","Magento_Weee"
 "FPT","FPT","module","Magento_Weee"
-"We found a duplicate of website, country and state fields for a fixed product tax","S-a găsit o dublură a cțmpurilor website-ului, țării și statului pentru o taxă fixă de produs","module","Magento_Weee"
+"We found a duplicate of website, country and state fields for a fixed product tax","S-a găsit o dublură a câmpurilor website-ului, țării și statului pentru o taxă fixă de produs","module","Magento_Weee"
 "Including FPT only","Se include numai FPT","module","Magento_Weee"
 "Including FPT and FPT description","Se include FPT și descrierea FPT","module","Magento_Weee"
 "Excluding FPT. Including FPT description and final price","Se exclude FPT. Se include descrierea FPT și prețul final","module","Magento_Weee"
