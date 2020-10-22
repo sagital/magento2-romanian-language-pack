@@ -187,7 +187,7 @@
 "Address","Adresa","module","Plumrocket_RMA"
 "Street Address","Adresa strãzii","module","Plumrocket_RMA"
 "Street Address %1","Strada Adresa %1","module","Plumrocket_RMA"
-"VAT Number","Cod TVA","module","Plumrocket_RMA"
+"VAT Number","CUI/CIF","module","Plumrocket_RMA"
 "City","Oraș","module","Plumrocket_RMA"
 "State/Province","Județ / Provincie","module","Plumrocket_RMA"
 "Please select a region, state, or province.","Vã rugãm sã selectați o regiune, un județ sau o provincie.","module","Plumrocket_RMA"
